@@ -600,7 +600,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 	#ABRIR O SITE DA HeleSoft
 		echo -e "
 \033[1;36m=-=-=-=-=-=-=-=-=\033[0m
-\033[1;36ml\033[0m \033[1;33m SCRIPTZONE\033[0m   \033[1;36ml\033[0m
+\033[1;36ml\033[0m \033[1;33m ZONAMESTRE\033[0m   \033[1;36ml\033[0m
 \033[1;36m=-=-=-=-=-=-=-=-=\033[0m"
 		echo -e "
 \033[1;33m1) SOBRE:\033[0m
@@ -623,7 +623,7 @@ Para os que sabem programar e etc... terão a cor azul.\033[0m
 		echo    
 		echo -e "\033[1;33mESTÁ CURIOSO ? BEM VINDO AO CLUBE ! AGORA, DIGITE ENTER PARA CONTINUAR\033[0m"
 		read SEGUE
-		termux-open-url https://Site-HeleSoft-BR.blogspot.com/;;
+		termux-open-url https://zonamestre.blogspot.com/p/loja.html;;
 
 
 

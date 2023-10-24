@@ -18,7 +18,7 @@ l                        Helê Wings V1                              l
 l   /-------------------------\  /-----------------------------\    l
 l   l   INSTALAR FERRAMENTAS  l  l       ABRIR SITES           l    l
 l   l-------------------------l  l-----------------------------l    l
-l   l [1] Atual. Repositoriós l  l [23] ScriptZone             l    l           
+l   l [1] Atual. Repositoriós l  l [23] ZonaMestre             l    l           
 l   l [2] Red Hawk            l  l                             l    l
 l   l [3] Pack de D.O.S       l  l [24] Consultar operadora    l    l
 l   l [4] Metasploit          l  l                             l    l
